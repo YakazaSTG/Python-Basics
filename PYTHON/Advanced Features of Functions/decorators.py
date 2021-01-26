@@ -1,3 +1,4 @@
+# Türkçe
 # def my_decorator(func):
 #     def wrapper(name):
 #         print("fonksiyondan önceki olan işlemler")
