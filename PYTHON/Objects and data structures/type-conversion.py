@@ -12,7 +12,7 @@
 
 x = 5            #int
 y = 2.5          #float
-name = 'Samet'   #string
+name = 'Bla Bla'   #string
 isOnline = True  #bool
 
 # print(type(x))
