@@ -1,15 +1,15 @@
 # Bankamatik Uygulaması
 
 
-SametHesap = {
-    'ad': 'Samet Gedik',
+AhmetHesap = {
+    'ad': 'Ahmet Yıldız',
     'hesapNo': '12345678',
     'bakiye': 5000,
     'ekHesap': 3000
 }
 
 HasanHesap = {
-    'ad': 'Hasan Berker',
+    'ad': 'Hasan Yılmaz',
     'hesapNo': '123551518',
     'bakiye': 3000,
     'ekHesap': 500
@@ -43,11 +43,11 @@ def paraCek(hesap, miktar):
 def bakiyeSorgula(hesap):
     print(f"{hesap['hesapNo']} nolu hesabınızda {hesap['bakiye']} TL bulunmaktadır. Ek hesap limitiniz ise {hesap['ekHesap']} TL bulunmaktadır.")
 
-paraCek(SametHesap, 3000)
+paraCek(AhmetHesap, 3000)
 
 
 print('********************************')
-paraCek(SametHesap, 5000)
+paraCek(AhmetHesap, 5000)
 
 
 
