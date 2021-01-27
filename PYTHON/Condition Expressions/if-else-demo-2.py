@@ -29,7 +29,7 @@ else:
 '''
 3- Email ve parola bilgileri ile giriş kontrolü yapınız. 
 
-email = 'email@sadikturan.com'
+email = 'email@BlaBla.com'
 password = 'abc123'
 
 girilenEmail = input('email: ')
