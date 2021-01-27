@@ -1,4 +1,4 @@
-message = 'Hello There. My name is Samet Gedik'.split()
+message = 'Hello There. My name is Bla Bla'.split()
 # print(message[0])
 
 # my_list = [1,2,3]
@@ -14,8 +14,8 @@ print(len(numbers))
 print(message[0])
 print(numbers[2])
 
-userA = ['Samet', 16]
-userB = ['Gedik', 20]
+userA = ['Bla', 16]
+userB = ['Bla2', 20]
 
 users = [userA, userB]
 
