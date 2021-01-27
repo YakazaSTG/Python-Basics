@@ -21,14 +21,14 @@
 # print(plakalar)
 
 users = {
-    'sametgedik': {
-    'age': 16,
+    'salih': {
+    'age': 27,
     'roles':['user'],
     'email': 'samethıhsfa@gmail.com',
     'address':'sakarya',
     'phone':'5535145'
     },
-    'hacısamet':  {
+    'hacısalih':  {
     'age': 1,
     'roles': ['admin','user'],
     'email': 'samethfısfa@gmail.com',
@@ -37,4 +37,4 @@ users = {
     }
 }
 
-print(users['hacısamet']['roles'][0])
+print(users['hacısalih']['roles'][0])
