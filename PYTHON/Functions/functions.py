@@ -18,11 +18,11 @@ print(result)
 def yasHesapla(dogumYili):
     return 2020 - dogumYili
 
-ageSamet = yasHesapla(2004)
+ageMehmet = yasHesapla(1999)
 ageHasan = yasHesapla(2005)
-ageKeremali = yasHesapla(2008)
+ageAli = yasHesapla(2008)
 
-print(ageSamet, ageHasan, ageKeremali)
+print(ageMehmet, ageHasan, ageAli)
 
 def EmekliligekacYilKaldi(dogumYili, isim):
     '''
@@ -38,9 +38,9 @@ def EmekliligekacYilKaldi(dogumYili, isim):
     else:
         print('Zaten emekli oldunuz')
 
-EmekliligekacYilKaldi(1961, 'besim')
+EmekliligekacYilKaldi(1960, 'Mehmet')
 EmekliligekacYilKaldi(1957, 'Ali')
-EmekliligekacYilKaldi(1978, 'Muhammet')
+EmekliligekacYilKaldi(1977, 'Ahmet')
 
 print(help(EmekliligekacYilKaldi))
 
