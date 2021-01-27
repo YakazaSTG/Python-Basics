@@ -1,6 +1,6 @@
-name = 'Samet'
-surname = 'Gedik'
-age = 16
+name = 'Bla'
+surname = 'Bla'
+age = 25
 
 greeting = 'My name is '+ name + ' '+ surname + ' and \nI am '+ str(age) + ' years old.'
 length = len(greeting)
