@@ -1,4 +1,4 @@
-message =  ' Hello There. My name is Samet Gedik'
+message =  ' Hello There. My name is Bla Bla'
 
 # message = message.upper()
 # message = message.lower()
@@ -10,11 +10,11 @@ message =  ' Hello There. My name is Samet Gedik'
 # # message = message.split('.')
 # message= '--'.join(message)
 
-# index = message.find('Samett')
+# index = message.find('Bla Bla')
 # isFound = message.startswith('S')
 # isFound = message.endswith('k')
 
-# message = message.replace('Samet','Gedik')
+# message = message.replace('Bla','Bla')
 # message = message.replace(' g','s')
 # .replace('ö','o')
 # .replace(' ','-')
