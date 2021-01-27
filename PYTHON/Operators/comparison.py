@@ -1,16 +1,16 @@
 # username ,password => database
 
-# 'sadikturan' , '123456'
+# 'Bla Bla' , '123456'
 
 a, b, c, d = 5, 5, 10, 4
 password = '1234'
-username = 'sametgedik'
+username = 'Bla Bla'
 
 
 result = (a == b) # true
 result = (a == c) # false
-result = ('smtgdk'== username)
-result = ('sametgedik'== username)
+result = ('blbl'== username)
+result = ('Bla Bla'== username)
 result = (a != b)
 result = (a != c)
 result = (a > c)
