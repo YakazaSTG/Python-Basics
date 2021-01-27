@@ -33,7 +33,7 @@ _age = 20
 
 x = 1             # int
 y = 2.3           # float
-name ="Samet"     # string
+name ="Bla Bla"     # string
 isStudent = False  # bool
 
 #x, y, name, isStudent = (1, 2.3, "Samet", True)
@@ -42,7 +42,7 @@ a = '10'
 b = '20' 
 print(a+b) #30 => 1020
 
-firstName = "Samet"
-lastName = " Gedik"
+firstName = "Bla"
+lastName = " Bla"
 
-print(firstName + lastName) # Samet Gedik
+print(firstName + lastName) # Bla Bla
