@@ -1,14 +1,14 @@
-fruits = { 'orange', 'apple', 'stg'}
+fruits = { 'orange', 'apple', 'ahmet'}
 
 # print(fruits[0]) indekslenemez
 
 for x in fruits:
     print(x)
 
-fruits.add('samet')
-fruits.update(['syt','grape','stg'])
+fruits.add('bla')
+fruits.update(['syt','grape','ahme'])
 
-fruits.remove('stg')
+fruits.remove('ahmet')
 fruits.discard('grape')
 fruits.pop()
 
