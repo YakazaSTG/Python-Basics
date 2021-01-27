@@ -1,5 +1,5 @@
-name = 'Samet'
-surname = 'Gedik'
+name = 'Ahmet'
+surname = 'Ünlü'
 age = 36
 
 # print('My name is {} {}'.format(name, surname))
