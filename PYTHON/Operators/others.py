@@ -25,6 +25,6 @@ print(x is not y)
 x = ['apple','banana']
 print('banana' in x)
 
-name = 'Samet'
+name = 'Bla Bla'
 print ('a' in name)
 print ('a' not in name)
