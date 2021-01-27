@@ -1,8 +1,8 @@
-username = 'sametgedik'
+username = 'John Wick'
 password = '1234'
 
 
-if (username == 'sametgedik'):
+if (username == 'John Wick'):
 
     if  (password == '1234'):
         print('Hoş geldiniz')
